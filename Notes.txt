@@ -12,4 +12,4 @@ A instalação é padrão do Nop Commerce.
 
 Seguindo estas etapas, o plugin já deve estar funcionando corretamente.
 
-** Esta versão funcionará apenas com NopCommerce 3.90. Para versões anteriores, baixe a outra versão deste Plugin, na seção de Extensions no site do NopCommerce.
+** Esta versão funcionará apenas com NopCommerce 3.90. Para versões anteriores, baixe a outra versão deste Plugin, na seção de Extensions no site do NopCommerce.;)
