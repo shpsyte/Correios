@@ -1,7 +1,8 @@
 # Correios Plugin de Correios 
 
-This repository contains the principles and definition of the Correios
-used for E-commerce Solution: nopcommerce.com
+This repository contains the principles and definition of the Correios used for E-commerce Solution: nopcommerce.com
+
+Check here https://www.nopcommerce.com/p/2173/correios.aspx
 
 Plugin for CORREIOS/BRAZILIAN integration.
 Accepts Pac, Sedex, Etc. With and Without Contract.
