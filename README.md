@@ -1,14 +1,19 @@
-# Correios Plugin de Correios 
+# Plugin NopCommerce for "Correios"
 
 This repository contains the principles and definition of the Correios used for E-commerce Solution: nopcommerce.com
 
-Check here https://www.nopcommerce.com/p/2173/correios.aspx
+[Correios](https://www.nopcommerce.com/images/thumbs/0004793_400.jpeg)
+
+# Please check here
+https://www.nopcommerce.com/p/2173/correios.aspx
+
 
 Plugin for CORREIOS/BRAZILIAN integration.
 Accepts Pac, Sedex, Etc. With and Without Contract.
-Allows you to add additional days and values
-In the next version I will put support to Warehouses /
-Errors please let me know so I can do the treatment
+Allows you to add additional days and values. 
+In the next version I will put support to Warehouses
+
+Errors please let me know so I can do the treatment.
 
 ## Correios 
 Group: Shipping rate computation
@@ -24,12 +29,10 @@ FileName: Nop.Plugin.Shipping.Correios.dll
 * .Visual Studio 2017
 
 ## How to Engage, Contribute and Provide Feedback
-
 You are also encouraged to start a discussion by filing an issue.
 
 
 
 ## Learning More
-
 For more information, contact me, out the joseluiz.net. It should answer any questions 
 you have not covered by the versions documentation.
