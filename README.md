@@ -2,9 +2,6 @@
 
 This repository contains the principles and definition of the Correios used for E-commerce Solution: nopcommerce.com
 
-<img src="https://www.nopcommerce.com/images/thumbs/0004793_400.jpeg" />
-
-
 
 # Please check here
 https://www.nopcommerce.com/p/2173/correios.aspx
